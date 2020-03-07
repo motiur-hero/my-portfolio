@@ -1,0 +1,12 @@
+
+body{font-family: 'Open Sans', sans-serif;}
+h1{font-size: 25px;}
+.name-highlight{color: orange;font-size: 40px;}
+.name-highlight:hover{color:greenyellow;font-size: 45px;}
+.half-width{width: 40%;margin-left: 5%;float: left;text-align: left;padding-left: 2%;}
+.half-width img{width: 100%;margin-top: -40px;}
+.half-width a{font-size: 15px;background-color: rgba(243, 176, 87, 0.925);border: 1px solid brown;
+padding: 5px 18px;border-radius: 4px;color: #ddd;text-decoration: none;
+
+}
+.half-width a:hover{color:red;}
