@@ -50,4 +50,13 @@ p{color: dimgray;}
         border-image: linear-gradient(180deg, blue, cyan);
         border-image-slice: 1;
     }
-    footer p{text-align: center;}
+.contact-section{background-image: url(images/blar-bg.jpg);
+                background-repeat: no-repeat;
+                height: 150px;
+                background-size: cover;
+                padding-bottom: 60px;
+                
+}
+
+
+    footer p{text-align: center;font-size: 12px;}
